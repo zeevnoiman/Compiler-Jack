@@ -1,2 +1,0 @@
-*.XSLT linguist-language=scala
-*.XML linguist-language=scala
