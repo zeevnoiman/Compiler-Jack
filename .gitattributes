@@ -2,6 +2,4 @@
 * text=auto
 
 * linguist-vendored
-*.XSLT linguist-vendored=false
-*.CSS linguist-vendored=false
-*.scala linguist-vendored=true
+*.scala linguist-vendored=false
