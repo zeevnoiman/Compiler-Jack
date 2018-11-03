@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+* linguist-vendored
+*.XSLT linguist-vendored=false
+*.CSS linguist-vendored=false
